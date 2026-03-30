@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPCVObject type="KeygroupProgram" version="3.7.1">
+  <ProgramName>{program_name}</ProgramName>
+  <ProgramType>Keygroup</ProgramType>
+  <Keygroups>
+    <!-- Keygroups populated dynamically, each with up to 4 layers -->
+  </Keygroups>
+</MPCVObject>

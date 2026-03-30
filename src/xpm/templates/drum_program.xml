@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPCVObject type="DrumProgram" version="3.7.1">
+  <ProgramName>{program_name}</ProgramName>
+  <ProgramType>Drum</ProgramType>
+  <Pads>
+    <!-- Pads A01-D16 (64 pads total) populated dynamically -->
+  </Pads>
+  <Instruments>
+    <!-- Each instrument corresponds to a pad -->
+  </Instruments>
+</MPCVObject>
