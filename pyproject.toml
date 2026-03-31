@@ -19,6 +19,9 @@ dev = [
     "pytest-cov>=4.1",
 ]
 
+[project.scripts]
+akai-convert = "src.cli:main"
+
 [build-system]
 requires = ["setuptools>=68.0"]
 build-backend = "setuptools.build_meta"
