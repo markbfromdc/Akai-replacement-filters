@@ -1,8 +1,13 @@
 __pycache__/
 *.pyc
 *.egg-info/
+*.egg
 .pytest_cache/
 dist/
 build/
 *.so
 output/
+.coverage
+htmlcov/
+.mypy_cache/
+.venv/
