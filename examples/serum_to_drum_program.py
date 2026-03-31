@@ -1,8 +1,7 @@
 """Example: Convert a Serum preset's filter settings to an Akai MPC drum program."""
 
-from src.serum.filter_map import SerumFilterConfig, SerumFilterSubtype, serum_to_akai
-from src.xpm import DrumProgram, Instrument, PadLayer
-from src.xpm.mod_matrix import ModSource, ModDest
+from src.serum import SerumFilterConfig, SerumFilterSubtype, serum_to_akai
+from src.xpm import DrumProgram, Instrument, PadLayer, ModSource, ModDest
 
 
 def main():

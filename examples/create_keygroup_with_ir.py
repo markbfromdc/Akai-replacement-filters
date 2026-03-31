@@ -1,8 +1,7 @@
 """Example: Create a keygroup program with impulse response and saturation processing."""
 
-from src.impulse.flavor_pack import FlavorPack, FlavorRecipe
-from src.impulse.saturation import SaturationMode
-from src.xpm.filter_params import FilterConfig, FilterType
+from src.impulse import FlavorPack, FlavorRecipe, SaturationMode
+from src.xpm import FilterConfig, FilterType
 
 
 def main():
