@@ -5,7 +5,6 @@ Generates valid .xpm XML files compatible with MPC Live/X/One/Force (OS 3.7.1+).
 
 from __future__ import annotations
 
-import os
 from dataclasses import dataclass, field
 from pathlib import Path
 
